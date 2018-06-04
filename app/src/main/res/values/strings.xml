@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">UberDriverAapp</string>
+
+    <string name="Title_Name">U B E R</string>
+    <string name="Title_Driver">Driver</string>
+    <string name="btn_signin">Sign in</string>
+    <string name="btn_rigister">Register</string>
+    <string name="txt_btton_in_main">Looking For The Rider App ?</string>
+    <string name="title_activity_mainuser">Map</string>
+</resources>

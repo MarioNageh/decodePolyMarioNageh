@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "885152918466",
+    "firebase_url": "https://uberapp-f39af.firebaseio.com",
+    "project_id": "uberapp-f39af",
+    "storage_bucket": "uberapp-f39af.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:885152918466:android:de540707edcd4285",
+        "android_client_info": {
+          "package_name": "taxidriver.nageh.mario.uberdriveraapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "885152918466-sl4r4ade3ss91fgv53nvdl1mu5r1j56p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "taxidriver.nageh.mario.uberdriveraapp",
+            "certificate_hash": "5d4684671528bb2a0dafb1e1f7149b8bfaba51e0"
+          }
+        },
+        {
+          "client_id": "885152918466-n9b65mpqrdrf5jhrmjufujg8gkj0rd94.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZ0i_DiOrqm-luDbKXW2aIkCcpA703Z6w"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "885152918466-n9b65mpqrdrf5jhrmjufujg8gkj0rd94.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
